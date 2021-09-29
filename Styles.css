@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p {
+    margin-bottom:  1%;
+    margin-top:  1%;
+}
+h1 {
+    font-family: Cambria;
+    text-align: center;
+    color: white;
+}
+
+
+header{
+    height: 13%;
+background-color: #20689E;
+}
+
+header p{
+color: white;
+margin-top: 1%;
+text-align: center;
+}
+ ul {
+     list-style: none;
+    font-family: Cambria;
+    font-size: 120%;
+ }
+ 
+
+
+footer {
+background-color: #20689E;
+
+}
+
+footer p{
+    color: white;
+    margin-right: 3%;
+    text-align: right;
+
+    }
+    
+table {
+    text-align: center;
+    font-family: Cambria;
+}
+td{
+    font-family: Cambria;
+    font-size: 120%;
+}
+th {
+    font-family: Cambria;
+    font-size: 120%;
+}
+
+audio {
+margin-left: 45%;
+}
+
+video {
+    margin-left: 40%;
+}
+
+iframe {
+    margin-left: 40%;
+}
+
+#tablaVacunas {
+ margin-top: 1%;
+margin-left: 35%;
+    }
+
+    #tablaEficacia {
+        margin-top: 1%;
+       margin-left: 40%;
+           }
+
+ #tablaPaises {
+        margin-left: 31%;
+            }
+
+a{
+            text-decoration: none;
+        font-family: Cambria;
+        font-size: 120%;
+        color: black;
+        }
+
+ p{
+            margin-left: 1%;
+            font-family: Cambria;
+            font-size: 120%;
+            color: black;
+            }
+
+ a:hover{
+            font-family: Cambria;
+            font-size: 120%;
+            color:#20689E;
+            }
+li {
+    margin-left: 1%;
+}
